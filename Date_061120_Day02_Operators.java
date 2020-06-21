@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Date_061120_Day2_Operators
+public class Date_061120_Day02_Operators
 {
 	public static void main(String[] args) throws NumberFormatException, IOException 
 	{

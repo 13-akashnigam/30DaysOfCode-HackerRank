@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Date_061420_Day4_ClassVsInstance 
+public class Date_061420_Day04_ClassVsInstance 
 {
 	private int age;	 
-	public Date_061420_Day4_ClassVsInstance(int initialAge) 
+	public Date_061420_Day04_ClassVsInstance(int initialAge) 
 	{
 		if(initialAge<0)
 		{
@@ -36,7 +36,7 @@ public class Date_061420_Day4_ClassVsInstance
 		for (int i = 0; i < T; i++) 
 		{
 			int age = sc.nextInt();
-			Date_061420_Day4_ClassVsInstance p = new Date_061420_Day4_ClassVsInstance(age);
+			Date_061420_Day04_ClassVsInstance p = new Date_061420_Day04_ClassVsInstance(age);
 			p.amIOld();
 			for (int j = 0; j < 3; j++) 
 			{

@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-public class Date_061120_Day1_DataTypes 
+public class Date_061120_Day01_DataTypes 
 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		int i = 4;

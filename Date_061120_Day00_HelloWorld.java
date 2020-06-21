@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Date_061120_Day0_HelloWorld 
+public class Date_061120_Day00_HelloWorld 
 {
 	public static void main(String[] args) throws IOException 
 	{		
